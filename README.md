@@ -28,7 +28,7 @@
 
 ### 8. 工程化
 
-##### [从 Babel 到组件按需引入原理](https://github.com/gyx-github/Front-end-development/issues/2)
+ ##### [从 Babel 到组件按需引入原理](https://github.com/gyx-github/Front-end-development/issues/2)
 
 ## License
 
