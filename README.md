@@ -13,6 +13,7 @@
 1. [JavaScript基础]()
 2. [CSS基础]()
 3. [框架（ Vue 为主）]()
+* [平安金服面试官：从 new 一个 Vue 对象开始...](https://github.com/gyx-github/Front-end-development/issues/1)
 4. [网络]()
 5. [数据结构与算法](docs/algorithm.md)
 6. [安全]()
