@@ -28,7 +28,7 @@
 
 **8. 工程化**
 
- * [平安金服面试官：从 new 一个 Vue 对象开始...](https://github.com/gyx-github/Front-end-development/issues/1)
+ * [从 Babel 到组件按需引入原理](https://github.com/gyx-github/Front-end-development/issues/2)
 
 ## License
 
