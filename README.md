@@ -4,6 +4,8 @@
 
 ### 1. JavaScript基础
 
+* [你不知道的 JavaScript（中卷）](https://github.com/gyx-github/note/issues/5)
+
 ### 2. CSS基础
 
 ### 3. 框架（ Vue 为主）
