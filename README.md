@@ -29,7 +29,7 @@
 
 ### 9. 服务端
 
-* [Go 快速入门指南](https://juejin.im/post/6860592257418919944)
+* [Go 快速入门指南](https://github.com/gyx-github/note/issues/6)
 
 ## License
 
