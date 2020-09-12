@@ -27,6 +27,7 @@
 
 * [从 Babel 到组件按需引入原理](https://github.com/gyx-github/note/issues/2)
 * [ElementUI 源码分析（一）按需加载](https://github.com/gyx-github/note/issues/4)
+* [webpack 模块热替换 (HMR - hot module replacement)](https://github.com/gyx-github/note/issues/9)
 
 ### 9. 服务端
 
