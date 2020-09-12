@@ -5,6 +5,7 @@
 ### 1. JavaScript基础
 
 * [你不知道的 JavaScript（中卷）](https://github.com/gyx-github/note/issues/5)
+* [你不知道的 JavaScript（下卷）](https://github.com/gyx-github/note/issues/7)
 
 ### 2. CSS基础
 
