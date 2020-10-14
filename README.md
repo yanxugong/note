@@ -12,6 +12,7 @@
 ### 3. 框架
 
 * [平安金服面试官：从 new 一个 Vue 对象开始...](https://github.com/gyx-github/note/issues/1)
+* [深入 react 技术栈（一）](https://github.com/gyx-github/note/issues/10)
 
 ### 4. 网络
 
