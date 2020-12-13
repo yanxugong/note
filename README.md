@@ -31,6 +31,7 @@
 * [ElementUI 源码分析（一）按需加载](https://github.com/gyx-github/note/issues/4)
 * [webpack 模块热替换 (HMR - hot module replacement)](https://github.com/gyx-github/note/issues/9)
 * [前端开发风格指南](https://github.com/gyx-github/note/issues/12)
+* [构建自己的 VS Code 插件](https://github.com/gyx-github/note/issues/13)
 
 ### 9. 服务端
 
