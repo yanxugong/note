@@ -14,6 +14,7 @@
 * [平安金服面试官：从 new 一个 Vue 对象开始...](https://github.com/gyx-github/note/issues/1)
 * [深入 react 技术栈（一）](https://github.com/gyx-github/note/issues/10)
 * [深入 react 技术栈（二）](https://github.com/gyx-github/note/issues/11)
+* [「微信小程序」小程序端录音、播放踩坑日记](https://github.com/gyx-github/note/issues/14)
 
 ### 4. 网络
 
@@ -29,6 +30,7 @@
 
 * [从 Babel 到组件按需引入原理](https://github.com/gyx-github/note/issues/2)
 * [ElementUI 源码分析（一）按需加载](https://github.com/gyx-github/note/issues/4)
+* [「webpack 核心特性」loader](https://github.com/gyx-github/note/issues/14)
 * [webpack 模块热替换 (HMR - hot module replacement)](https://github.com/gyx-github/note/issues/9)
 * [前端开发风格指南](https://github.com/gyx-github/note/issues/12)
 * [构建自己的 VS Code 插件](https://github.com/gyx-github/note/issues/13)
